@@ -12,6 +12,10 @@ public class AddContact extends ActionBarActivity
 		super.onCreate(b);
 		setContentView(R.layout.add_contact);
 	}
+	public void test()
+	{
+		
+	}
 	public void invokeDB()
 	{
 	Log.d(TAG, "Hey.. I am going to ivoke db..");
